@@ -6,5 +6,9 @@ public class Table {
         for (int i = 1; i <= 5; i++) {
             System.out.println(n*i);
         }
+        Method1();
+    }
+    static void Method1(){
+        System.out.println("Hi");
     }
 }
